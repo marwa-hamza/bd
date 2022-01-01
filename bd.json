@@ -2,9 +2,9 @@
   {
     "id": 1,
     "name": "Angular Project",
-    "username": "Done: Frontend",
+    "username": "Done Frontend",
     
-    "email": "Doing: Backend",
+    "email": "Doing Backend",
     "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
@@ -26,7 +26,7 @@
   {
     "id": 2,
     "name": "Flutter Project",
-    "username": "Done: sld",
+    "username": "Done sld",
     "email": "Shanna@melissa.tv",
     "address": {
       "street": "Victor Plains",
